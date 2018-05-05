@@ -4,6 +4,31 @@
  *
  */
 
+$mysql = [
+    'connectionString' => 'mysql:host=127.0.0.1;dbname=guo0730',
+    'emulatePrepare' => true,
+    'enableParamLogging' => true,
+    'enableProfiling' => true,
+    'username' => 'root',
+    'password' => 'taorong2012',
+    'charset' => 'utf8',
+    'tablePrefix' => 'b_',
+];
+
+if (preg_match('/localhost/i', $_SERVER['SERVER_NAME'])) {
+    $mysql = [
+        'connectionString' => 'mysql:host=127.0.0.1;dbname=gcms',
+        'emulatePrepare' => true,
+        'enableParamLogging' => true,
+        'enableProfiling' => true,
+        'username' => 'root',
+        'password' => '123456',
+        'charset' => 'utf8',
+        'tablePrefix' => 'b_',
+    ];
+}
+
+
 return array(
     'basePath' => dirname(__FILE__) . DIRECTORY_SEPARATOR . '..',
     'name' => '',
@@ -27,27 +52,8 @@ return array(
         'cache' => array(
             'class' => 'CFileCache',
         ),
-        /*'db'=>array(
-            'connectionString' => 'mysql:host=127.0.0.1;dbname=guo0730',
-            'emulatePrepare' => true,
-            'enableParamLogging' => true,
-            'enableProfiling'=>true,
-            'username' => 'root',
-            'password' => 'taorong2012',
-            'charset' => 'utf8',
-            'tablePrefix' => 'b_',
-        ),*/
 
-        'db' => array(
-            'connectionString' => 'mysql:host=127.0.0.1;dbname=gcms',
-            'emulatePrepare' => true,
-            'enableParamLogging' => true,
-            'enableProfiling' => true,
-            'username' => 'root',
-            'password' => '123456',
-            'charset' => 'utf8',
-            'tablePrefix' => 'b_',
-        ),
+        'db' => $mysql,
 
         'errorHandler' => array(
             'errorAction' => 'error/index',
