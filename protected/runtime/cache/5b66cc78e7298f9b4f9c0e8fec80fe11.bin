@@ -1,0 +1,58 @@
+a:2:{i:0;a:7:{i:0;a:24:{s:2:"id";s:1:"7";s:9:"parent_id";s:1:"0";s:12:"catalog_name";s:12:"服务项目";s:19:"catalog_name_second";s:12:"服务项目";s:18:"catalog_name_alias";s:7:"service";s:7:"content";s:1113:"<div class="boxbg">
+	<div class="index_box item-zq">
+		<div class="item-zq-scrm">
+			<h5>
+				代办工资流水
+			</h5>
+			<p>
+				公司为员工义务缴纳个人所得税,每月工资银行代发的流水
+			</p>
+		</div>
+		<div class="item-zq-scrm">
+			<h5>
+				代办银行流水
+			</h5>
+			<p>
+				银行卡，半年内的交易明细,包括:消费 进出帐 转账 网银
+			</p>
+		</div>
+		<div class="item-zq-scrm">
+			<h5>
+				定制银行流水
+			</h5>
+			<p>
+				半年内的交易明细,包括:消费 进出帐 转账 网银
+			</p>
+		</div>
+		<div class="item-zq-scrm">
+			<h5>
+				办理收入证明
+			</h5>
+			<p>
+				工资、养老保险缴费、自有房产证明、私家车辆证明、大额定期存折复印件等
+			</p>
+		</div>
+
+
+                 <div class="item-zq-scrm">
+			<h5>
+				代开工作证明
+			</h5>
+			<p>
+				代开各种工作证明
+			</p>
+		</div>
+
+
+                 <div class="item-zq-scrm">
+			<h5>
+				代开存款证明
+			</h5>
+			<p>
+				代开银行存款证明
+			</p>
+		</div>
+	</div>
+	 
+ 
+</div>";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"3";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"page";s:13:"template_list";s:9:"list_text";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:9:"show_post";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1490433944";}i:1;a:24:{s:2:"id";s:1:"1";s:9:"parent_id";s:1:"0";s:12:"catalog_name";s:6:"文章";s:19:"catalog_name_second";s:6:"文章";s:18:"catalog_name_alias";s:4:"news";s:7:"content";s:18:"新闻栏目介绍";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"2";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"list";s:13:"template_list";s:9:"list_text";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:9:"show_post";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1379545020";}i:2;a:24:{s:2:"id";s:1:"4";s:9:"parent_id";s:1:"0";s:12:"catalog_name";s:6:"案例";s:19:"catalog_name_second";s:6:"案例";s:18:"catalog_name_alias";s:12:"case-picture";s:7:"content";s:18:"产品栏目介绍";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"1";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"list";s:13:"template_list";s:10:"list_goods";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:10:"show_goods";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1379545330";}i:3;a:24:{s:2:"id";s:1:"6";s:9:"parent_id";s:1:"4";s:12:"catalog_name";s:12:"银行流水";s:19:"catalog_name_second";s:12:"银行流水";s:18:"catalog_name_alias";s:18:"bank-water-picture";s:7:"content";s:24:"特价商品栏目介绍";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"0";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"list";s:13:"template_list";s:10:"list_goods";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:10:"show_goods";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1379545435";}i:4;a:24:{s:2:"id";s:1:"5";s:9:"parent_id";s:1:"4";s:12:"catalog_name";s:12:"收入证明";s:19:"catalog_name_second";s:12:"收入证明";s:18:"catalog_name_alias";s:20:"revenue-flow-picture";s:7:"content";s:24:"新品上市栏目介绍";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"0";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"list";s:13:"template_list";s:10:"list_goods";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:10:"show_goods";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1379545388";}i:5;a:24:{s:2:"id";s:1:"3";s:9:"parent_id";s:1:"1";s:12:"catalog_name";s:12:"银行流水";s:19:"catalog_name_second";s:12:"银行流水";s:18:"catalog_name_alias";s:14:"bank-statement";s:7:"content";s:24:"行业新闻栏目介绍";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"0";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"list";s:13:"template_list";s:9:"list_text";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:9:"show_post";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1379545248";}i:6;a:24:{s:2:"id";s:1:"2";s:9:"parent_id";s:1:"1";s:12:"catalog_name";s:12:"收入证明";s:19:"catalog_name_second";s:12:"收入证明";s:18:"catalog_name_alias";s:18:"income-certificate";s:7:"content";s:24:"公司动态栏目介绍";s:9:"seo_title";s:0:"";s:12:"seo_keywords";s:0:"";s:15:"seo_description";s:0:"";s:11:"attach_file";s:0:"";s:12:"attach_thumb";s:0:"";s:10:"sort_order";s:1:"0";s:10:"data_count";s:1:"0";s:9:"page_size";s:1:"0";s:9:"status_is";s:1:"Y";s:7:"menu_is";s:1:"N";s:12:"redirect_url";s:0:"";s:12:"display_type";s:4:"list";s:13:"template_list";s:9:"list_text";s:13:"template_page";s:9:"list_page";s:13:"template_show";s:9:"show_post";s:11:"acl_browser";s:0:"";s:11:"acl_operate";s:0:"";s:11:"create_time";s:10:"1379545199";}}i:1;N;}
